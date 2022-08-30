@@ -24,7 +24,8 @@ geometry:
   - includehead
   - includemp
 
-# A setting for the PDF. I don't know whether it is important.
+# Language format setting for both html and PDF.
+# You may change to others, e.g. en-GB for avoiding Issue #302 
 lang: en-US
 
 # Uncomment the following to enable a Chinese/Japanese/Korean (CJK) font.
